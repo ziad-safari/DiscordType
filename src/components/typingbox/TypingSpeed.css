@@ -1,0 +1,48 @@
+.typing-speed-test {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.text {
+    margin-bottom: 2rem;
+}
+
+.character {
+    display: inline-block;
+    width: 1.5ch;
+}
+
+.current {
+    background-color: #f8cecc;
+}
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+input {
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    background-color: white;
+    cursor: pointer;
+}
+
+.speed {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
